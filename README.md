@@ -81,3 +81,16 @@ Future work includes:
 - Expansion into quantum radar modeling.
 - Integration with AI for adaptive radar optimization.
 This research paves the way for next-generation radar systems capable of superior target detection.
+
+COM Radar Performance Metrics
+Result
+           Metric  Standard FFT  COM-Enhanced  Stealth Target  \
+0             SNR  4.074766e-01  1.553331e-01        1.909044   
+1  Detection Rate  3.180442e-08  4.759218e-08        1.349894   
+2  Tracking Error  5.230087e-08  2.040857e-07        0.998269   
+
+   Hypersonic Target  
+0           1.856815  
+1           1.396105  
+2           1.070910  
+
