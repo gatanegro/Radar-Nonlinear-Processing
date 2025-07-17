@@ -1,4 +1,7 @@
 # Radar-Nonlinear-Processing
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14993429.svg)](https://doi.org/10.5281/zenodo.14993429)
+
 A Recursive Harmonic Approach
 
 Current radar systems struggle to detect stealth and hypersonic objects due to limitations in linear
